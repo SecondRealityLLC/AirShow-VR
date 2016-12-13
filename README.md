@@ -1,2 +1,2 @@
 # AirShow-VR
-AirShow-VR cross-platform game
+AirShow-VR prototype.
